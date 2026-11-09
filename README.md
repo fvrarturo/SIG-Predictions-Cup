@@ -229,7 +229,7 @@ The leader, nimble-beacon, is first on the board at +1.42 million with markets s
 
 **5. Some made big directional bets.** steady-ember finished third at +1.29 million on 2.7 million of volume, a 48% return on volume. That's a few large bets that came in, not market making.
 
-**What I got wrong.** On day one I saw trades like 99,649 shares at 0.99 in a 1% race, and read them as bankroll transfers between friendly accounts. The simpler story fits better: people sent orders for a size without a price into empty books, and whoever had orders resting far from fair took the other side. That needs no one's cooperation, just the nerve to rest a very large order at a silly price.
+**Some early trades looked wrong.** On day one we saw trades like 99,649 shares bought at 0.99 in a race fair put at 1%. Most of the giant off-fair trades fit a simple story: people sent orders for a size without a price into empty books, and whoever had orders resting far from fair took the other side. That needs no one's cooperation, just the nerve to rest a very large order at a silly price. But we also recognised that some of the early trades might have been cheating, such as bankrolls deliberately moved from one account to another, and we reported them to SIG. Nothing here is a claim about any account named in this write-up. I appreciate SIG's help in trying to clean up the competition.
 
 ## What I'd do differently
 
@@ -253,4 +253,4 @@ The leader, nimble-beacon, is first on the board at +1.42 million with markets s
 
 The bot, its logs and the raw recordings stay private. [`prep_data.py`](prep_data.py) turns the recordings into compact arrays, and [`make_figures.py`](make_figures.py) draws every chart above in light and dark. Times are US Eastern. "Fair" always means our Kalshi/Polymarket blend, and a point is 1¢ of probability. P&L at the results uses SIG's settlement where it has settled and Kalshi's final result otherwise.
 
-Thanks to SIG for running the Cup. I'll update the final rank once every market has settled.
+Thanks to SIG for running the Cup, and for their help in trying to clean up the competition. I'll update the final rank once every market has settled.
