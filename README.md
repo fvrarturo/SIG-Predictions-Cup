@@ -1,8 +1,6 @@
 # Trading SIG's midterm Predictions Cup against real-money prices
 
-<table><tr><td align="center">
-<a href="https://www.linkedin.com/in/arturo-favara/"><img src="https://github.com/fvrarturo.png?size=220" width="110" alt="Arturo Favara"><br><b>Arturo Favara</b></a>
-</td></tr></table>
+By **[Arturo Favara](https://www.linkedin.com/in/arturo-favara/)** · bright-dawn-8174 on the leaderboard
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="figures/equity_curve-dark.png">
